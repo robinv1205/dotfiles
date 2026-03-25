@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# My Dotfiles 
-
-## I'll update this README with all dependencies, packages etc. soon
-=======
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Welcome to dotfiles 👋</h1>
 <p>
@@ -24,4 +19,4 @@
 Give a ⭐️ if you like this project!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
->>>>>>> 82cb96d (added readme)
+
