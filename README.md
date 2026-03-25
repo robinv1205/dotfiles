@@ -6,7 +6,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&weight=200&size=16&duration=1800&pause=1000&center=true&vCenter=true&multiline=true&height=60&lines=These+are+my+dotfiles;configured+and+installed+on+cachyOS)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&weight=200&size=16&duration=1800&pause=1000&center=true&vCenter=true&height=60&lines=These+are+my+dotfiles;configured+and+installed+on+cachyOS" alt="Typing SVG" /></a>
 
 ## Author
 
