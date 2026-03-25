@@ -1,3 +1,3 @@
-# These are my Dotfiles
+# My Dotfiles 
 
-# [![Build Status](https://travis-ci.org/colinjackson/dotfiles.svg?branch=master)](https://travis-ci.org/colinjackson/dotfiles)
+## I'll update this README with all dependencies, packages etc. soon
