@@ -8,12 +8,13 @@ fi
 source /usr/share/cachyos-zsh-config/cachyos-config.zsh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+[[ ! -f ~/.p10k-tokyo.zsh ]] || source ~/.p10k-tokyo.zsh
 
 
 alias bye="shutdown now"
 alias sleep="systemctl suspend"
 alias cat="ccat"
+alias install="sudo pacman -S"
 
 export EDITOR="nvim"
 source /usr/share/nvm/init-nvm.sh

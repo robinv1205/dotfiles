@@ -1,0 +1,13 @@
+-- Lualine onfig
+return {
+    "nvim-lualine/lualine.nvim",
+    opts = function(_, opts)
+        opts.sections.lualine_z = {
+            function()
+                return os.date("%a %I:%M %p")
+            end,
+            "progress",
+            "location",
+        }
+    end,
+}

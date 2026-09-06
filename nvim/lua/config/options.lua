@@ -10,6 +10,7 @@ set.tabstop = 4
 set.shiftwidth = 4
 set.expandtab = true
 set.autoindent = true
+set.smartindent = true
 
 -- Search Settings
 set.ignorecase = true
@@ -32,15 +33,16 @@ set.hlsearch = false
 set.updatetime = 50
 
 -- Everything else
-set.colorcolumn = "80"
+set.colorcolumn = "120"
+set.termguicolors = true
 
 vim.api.nvim_create_autocmd("VimEnter", {
-  callback = function()
-    set.wrap = true
-    set.linebreak = true
-    set.showbreak = "↪ "
-    set.textwidth = 0
-  end,
+    callback = function()
+        set.wrap = false
+        set.linebreak = true
+        set.showbreak = "↪ "
+        set.textwidth = 0
+    end,
 })
 
 -- Emmet
